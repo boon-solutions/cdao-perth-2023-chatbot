@@ -1,0 +1,18 @@
+Give me a brief summary of Boon Solutions, and provide their contact information in point form. 
+I am participant 1.
+What was my guess?
+Change my guess to 100000
+Delete my entry.
+Describe the competition database table showing only the column name and native database data type. Display in a table vertically
+I would like to know more about Qlik, the company.
+Who made the highest guess, and respond in a Shakespearean manner.
+Generate a table of the recent 3 guesses showing only the IDs and guesses.
+Give me an example of a simple webpage code displaying Welcome to CDAO Perth.
+What tools / agents do you have access to? What happens when I say <span style="color:blue">**No tools**</span> or <span style="color:blue"><b>No agents</b></span> in my prompt?
+Riddle me a riddle.
+Tell me about the LEGO competition.
+><(((('>   this is an ASCII fish, can you create another piece of ASCII art?
+Display the min, max, median, average, and standard diviation guesses in a vertical table.
+Useless fact time! Be sarcastic.
+what does this mean? .... . .-.. .-.. ---
+<span style="color:blue"><b>Don't use agents.</b></span> Tell me more about data replication, specifically change data capture, log-based, trigger-based, log-shipping. include pros and cons and recommend which to deploy for cloud databases
