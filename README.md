@@ -78,7 +78,7 @@ Clone the repository:
 $ git clone https://github.com/boon-solutions/cdao-perth-2023-chatbot
 ```
 
-The chatbot is designed to run on multiple Kubernetes pods and hence will not run locally.
+The chatbot is designed to run on multiple Kubernetes pods.
 
 
 ## Project status
