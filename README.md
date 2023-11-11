@@ -4,6 +4,9 @@
 # Boon Solutions Tooled Chatbot
 Welcome to the home of our Tooled Chatbot. Powered by ChatGPT-4 and written in under 350 lines of code, Boon Solutions originally developed this app for [CDAO Perth 2023](https://cdao-perth.coriniumintelligence.com/) to showcase data privacy and the risks of LLMs when not properly managed.
 
+## The Blog: Gen AI – Privacy, Security, and Explainability
+In our data-driven reality, the boundaries that protect our personal privacy, ensure the security of our information, and clarify the decisions made by AI are not just conveniences—they are absolute necessities.
+[Read more](https://www.boon.com.au/3vv5)
 
 ## The App
 
