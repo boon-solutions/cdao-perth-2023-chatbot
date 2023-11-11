@@ -71,8 +71,6 @@ Another key point of this project is the importance of data governance when invo
 
 
 ## Installation
-Our chatbot code is available on GitHub: [boon-solutions/cdao-perth-2023-chatbot](https://github.com/boon-solutions/cdao-perth-2023-chatbot) 
-
 Clone the repository:
 ```
 $ git clone https://github.com/boon-solutions/cdao-perth-2023-chatbot
