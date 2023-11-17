@@ -1,7 +1,3 @@
-### Streamilt is stateful, so we can't use it in a multi-user environment.
-### Streamlit can be used in a multi-user environment, but its default behavior is stateful which can lead to issues if not handled carefully. 
-### For instance, if different users interact with a Streamlit app at the same time, they might see each other's data or actions. 
-### However, there are workarounds like using Session State or third-party libraries to manage sessions, which can help in creating a more isolated experience for each user.
 import os
 import random as rn
 import streamlit as st
