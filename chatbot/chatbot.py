@@ -19,10 +19,8 @@ from langchain.callbacks import StreamlitCallbackHandler
 import socket
 from lib.boon import BoonCaptureStdout
 
-
 ### Configure Streamlit app
 st.set_page_config( page_title="Boon Solutions ChatGPT", page_icon="https://www.boon.com.au/wp-content/uploads/2022/09/favicon.png", )
-
 
 ### Load environment variables. using path so that we can allow k8s stateful replica to have individual config files
 @st.cache_data
